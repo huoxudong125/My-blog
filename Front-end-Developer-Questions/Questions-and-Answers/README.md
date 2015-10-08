@@ -588,7 +588,7 @@ HTML5？
 
 		 var sayAlert = say667();
 		 sayAlert()//执行结果应该弹出的667
-
+>[学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
 -  "use strict";是什么意思 ? 使用它的好处和坏处分别是什么？
 
